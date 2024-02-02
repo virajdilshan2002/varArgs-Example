@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/varArgs-Example.iml" filepath="$PROJECT_DIR$/varArgs-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/varargs-example.iml" filepath="$PROJECT_DIR$/varargs-example.iml" />
     </modules>
   </component>
 </project>
